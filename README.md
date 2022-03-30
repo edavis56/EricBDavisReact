@@ -1,7 +1,5 @@
 # Portfolio With React
 
-<<<<<<< HEAD
-
 ## Table of Contents
 
 - [Description](#description)
@@ -13,8 +11,7 @@
 
 This application is my portfolio page with react.
 
-![landing Page](/img/2022-02-07_21-03-12.jpg)
-![notes Page](/img/2022-02-07_21-03-53.jpg)
+![Home Page](/react.jpg)
 
 ## Installation
 
@@ -27,10 +24,7 @@ The app is intended to be a personal portfolio displaying my work and resume.
 ## Links
 
 [GitHub](https://github.com/edavis56)
-[Application()]
 
 ### Reach me here:
 
-[edavis56](https://github.com/edavis56)  
- NA
-=======
+[edavis56](https://github.com/edavis56)
